@@ -6,3 +6,5 @@ the use of the InternetArchive Python interface script.
 
 These scripts are being published on github to allow commentary and learning materials
 for the internal maintenance of the Archive's stores of materials.
+
+* frontpage.sh is a script that goes through all the items in a collection (with a texts mediatype) and ensures the first page of every item's document is the thumbnail, and that the online reader starts on the cover.
